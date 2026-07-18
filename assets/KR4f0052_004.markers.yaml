@@ -2808,6 +2808,7 @@ markers:
   - {type: line-break, offset: 10181, content: '', id: KR4f0052_SBCK_004-2a10}
   - {type: indent, offset: 10181, content: 　　, id: KR4f0052_krp_004-bkkind42}
   - {type: punctuation, offset: 10190, content: (, id: KR4f0052_krp_004-bkkpn1}
+  - {type: voice, offset: 10190, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 10191, content: ), id: KR4f0052_krp_004-bkkpn2}
   - {type: 'kr:newline', offset: 10191, content: '
 
@@ -2828,6 +2829,7 @@ markers:
       ', id: KR4f0052_krp_004-bkkkrnewl575}
   - {type: line-break, offset: 10232, content: '', id: KR4f0052_SBCK_004-2b03}
   - {type: punctuation, offset: 10233, content: (, id: KR4f0052_krp_004-bkkpn3}
+  - {type: voice, offset: 10233, length: 15, name: note, id: n2}
   - {type: punctuation, offset: 10241, content: /, id: KR4f0052_krp_004-bkkpn4}
   - {type: substitution, offset: 10242, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   - {type: punctuation, offset: 10243, content: /, id: KR4f0052_krp_004-bkkpn5}
@@ -3574,6 +3576,7 @@ markers:
   - {type: indent, offset: 12797, content: 　　, id: KR4f0052_krp_004-bkkind62}
   - {type: substitution, offset: 12797, original: 游, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17515}}
   - {type: punctuation, offset: 12802, content: (, id: KR4f0052_krp_004-bkkpn7}
+  - {type: voice, offset: 12802, length: 9, name: note, id: n3}
   - {type: punctuation, offset: 12811, content: ), id: KR4f0052_krp_004-bkkpn8}
   - {type: 'kr:newline', offset: 12811, content: '
 
@@ -4297,4 +4300,4 @@ markers:
 
       ', id: KR4f0052_krp_004-bkkkrnewl867}
   back: []
-hash: sha256:2c2025918ef189b8364e37c14a8539a55db569595b30e0c912a5dc34116cd7ee
+hash: sha256:af8390de10b0707b2971f570429f459ac30c42affea476d0c54fc1b020a8e5a0
